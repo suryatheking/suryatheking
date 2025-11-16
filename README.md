@@ -1,5 +1,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1cWk4eTY5dG90enA4Z3B2MXA1MHRpcnJtZmt6emQ1eDhoZ20yNyZlcD12aWZfZ2lmc19zdGFuZGFyZGFsbCZjdD1n/M9gb6kGfV7uE/giphy.gif" width="100"/>
+  <h1>👋 Hello, I'm Surya The King</h1>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1cWk4eTY5dG90enA4Z3B2MXA1MHRpcnJtZmt6emQ1eDhoZ20yNyZlcD12aWZfZ2lmc19zdGFuZGFyZGFsbCZjdD1n/M9gb6kGfV7uE/giphy.gif" width="100"/>
 🛡️ Hi, I'm Suryadeep — Cybersecurity Student & Ethical Hacking Learner!
 </div>
 
