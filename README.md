@@ -1,94 +1,81 @@
-<p align="center">🟩💀 S U R Y A D E E P 💀🟩</p>
-<p align="center">⚡ Cybersecurity Student | Ethical Hacker | Pentester | Threat Hunter ⚡</p>
-<p align="center"> <img src="https://i.imgur.com/Oj1W4RA.gif" width="800" /> </p>
-<p align="center">🟩 M A T R I X • S Y S T E M • B O O T 🟩</p>
-BOOTING...
-> /core/kernel.init
-> establishing encrypted link...
-> Authentication: SUCCESS
-> User: SURYADEEP
-> Access Level: GREEN PILL – LEVEL 7
-> Environment: CYBER OPS / THREAT LAB
-> Running: Matrix_Renderer_3D.exe
--------------------------------------------
-STATUS: SYSTEM HACKER ONLINE ▓▒░ Ready ░▒▓
+<p align="center">💻🟩 S U R Y A D E E P 🟩💻</p>
+<p align="center">⚡ Cybersecurity Student | Ethical Hacker | Pentesting Learner ⚡</p>
+<p align="center"> <img src="https://i.imgur.com/KrRb0Fs.gif" width="700" /> </p>
+<p align="center">🟩 INITIATING HACKER PROFILE…</p>
+[BOOT SEQUENCE STARTED...]
+> Loading system variables...
+> Establishing secure shell...
+> User detected: SURYADEEP
+> Clearance: CYBER OPERATIVE LEVEL-3
+> Status: ACTIVE ✓
+> Threat Monitoring: ONLINE
+------------------------------------------
+ACCESS GRANTED ▓▒░ Welcome Operative ░▒▓
 
-<p align="center"> <img src="https://i.imgur.com/q5YJXgq.gif" width="700"> </p>
-<p align="center">🟩 3D HACKER IDENTITY LOADED 🟩</p>
-👨‍💻 Who Am I?
+🟩 👨‍💻 Profile Overview
 
-✔ Cybersecurity student mastering Web Exploitation & Network PenTesting
-✔ Researcher in Malware, Forensics, OSINT & Dark Web Intelligence
-✔ Builds 3D, AI-powered, Python-based hacking tools
-✔ Lives inside Kali Linux terminals & dark mode environments
-✔ Active player on TryHackMe | HackTheBox | PortSwigger Labs
-✔ Mission: Become an elite penetration tester & cyber defense specialist
+🟢 Cybersecurity student mastering Web & Network Pentesting
+🟢 Passion for ethical hacking, malware research, digital forensics
+🟢 Builds Python-based hacking utilities & scanners
+🟢 Training on TryHackMe, HackTheBox, PortSwigger Lab
+🟢 Exploring AI + Security Automation Tools
 
-<p align="center">🟩 3D TECH STACK RENDERING…</p>
-<p align="center"> <img src="https://i.imgur.com/jx7rKNR.gif" width="650"> </p>
-🔥 Languages
-Python • JavaScript • Bash • PHP • SQL
+🟩 ⚔️ Offensive Arsenal
+🛠️ Programming
+Python | JavaScript | PHP | Bash | SQL
 
-⚔️ Attack Tools (Offensive Sec)
-Nmap • Metasploit • BurpSuite • Hydra • SQLmap
-Gobuster • Aircrack-ng • JohnTheRipper • Nikto
+🧨 Pentesting Tools
+Nmap • Burp Suite • Metasploit • Hydra • SQLmap
+Gobuster • Nikto • Aircrack-ng • John the Ripper
 
-🛡️ Defense & Analysis
-Wireshark • Autopsy • Volatility • SysInternals
+🕵️‍♂️ Recon & OSINT Tools
+Shodan • OSINT Framework • Recon-ng • Subfinder
+
+🛡️ Forensics / Defensive
+Wireshark • Volatility • Autopsy • Log Analysis
 
 🐧 Operating Systems
-Kali • Parrot • Ubuntu • Windows (Blue Team)
+Kali Linux • Parrot OS • Ubuntu • Windows
 
-<p align="center">💀 3D ACTIVE PROJECTS DEPLOYED 💀</p>
-🟩 Matrix Dark Web Intelligence Engine
+<p align="center">💀 HACKER MODE ACTIVATED 💀</p>
+<p align="center"> <img src="https://i.imgur.com/oZfZz21.gif" width="700"> </p>
+🟩 🔥 Featured Cybersecurity Projects
+🟢 Dark Web Monitoring System
 
-🟢 Leak hunting
-🟢 Credential exposure tracking
-🟢 3D breach visualization
+🔍 Detects leaked emails & credentials
+📡 Real-time breach lookup
 
-🟩 Cyber Recon Hybrid Scanner
+🟢 Web Vulnerability Scanner
 
-🟢 Web + Network + OSINT combined
-🟢 Autonomous recon modes
-🟢 Real-time threat mapping
+✔ SQLi, XSS, CSRF
+✔ Directory brute-force
 
-🟩 Quantum Port Scanner (Multithreaded)
+🟢 Port Scanner (Multi-threaded)
 
-🟢 Ultra-fast scanning
-🟢 Advanced host fingerprinting
+⚡ Lightning fast
+🎯 Accurate port detection
 
-🟩 Password Intelligence + AI Generator
+🟢 Password Intelligence Suite
 
-🟢 Crack analysis
-🟢 Strength scoring
-🟢 Secure AI patterns
+✔ Strength analyzer
+✔ Smart generator
 
-🟩 Keylogger (Education Only)
+🟢 Keylogger (For Education Only)
 
-🟢 Behavioral logging
-🟢 Stealth + encrypted logs
+Used for research + learning
 
-<p align="center">🟩 3D ICON GRID</p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,php,js,git,kali,mysql,vscode,html,css" /> </p>
-<p align="center">🟩 MATRIX ANALYTICS PANEL</p>
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=suryadeep&show_icons=true&theme=matrix" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadeep&layout=compact&theme=matrix" /> </p> <p align="center"> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=suryadeep&theme=matrix" /> </p>
-<p align="center">🟩 “THERE IS NO SYSTEM THAT CANNOT BE BREACHED.”</p>
+<p align="center">🟩 TECH BADGES</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,php,js,mysql,html,css,git,vscode,kali" /> </p>
+<p align="center">📊 SYSTEM ANALYTICS</p>
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=suryadeep&show_icons=true&theme=merko" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadeep&layout=compact&theme=merko" /> </p> <p align="center"> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=suryadeep&theme=merko" /> </p>
+<p align="center">💬 Hacker Quote</p>
 
-“In the matrix of cyberspace, the strongest weapon is knowledge.”
+“Hack the system before the system hacks you.”
 
-<p align="center"> <img src="https://i.imgur.com/vdN1YMz.gif" width="600"> </p>
-<p align="center">🟩 CONTACT PORTALS</p>
+🟩 📡 Contact Protocols
 
-📧 Email: your email here
-🔗 LinkedIn: your link
-🐦 Twitter/X: your link
+📧 Email — your email
+🔗 LinkedIn — your link
+🐦 Twitter — your link
 
-<p align="center">🟩 Want a Version Even MORE INSANE?</p>
-
-I can create:
-
-🔥 3D CYBERPUNK (NEON & GLOW) README
-🔥 FULL TERMINAL ANIMATION VERSION
-🔥 BLACK-OPS RED TEAM INTEL README
-🔥 HOLOGRAM 3D READme
-🔥 GLITCH + CRT Hacker UI versio
+<p align="center">⚡ Want an EVEN DARKER, MORE AGGRESSIVE MATRIX THEME?</p>
