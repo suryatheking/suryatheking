@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://th.bing.com/th/id/OIP.p7FcM-SU-ReR5WFPoHcRNAHaEK?w=332&h=186&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" width="100"/>
   <h1>👋 Hello, I'm Surya The King</h1>
 </div>
 
