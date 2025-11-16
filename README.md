@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1cWk4eTY5dG90enA4Z3B2MXA1MHRpcnJtZmt6emQ1eDhoZ20yNyZlcD12aWZfZ2lmc19zdGFuZGFyZGFsbCZjdD1n/M9gb6kGfV7uE/giphy.gif" width="100"/>
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHp1cWk4eTY5dG90enA4Z3B2MXA1MHRpcnJtZmt6emQ1eDhoZ20yNyZlcD12aWZfZ2lmc19zdGFuZGFyZGFsbCZjdD1n/M9gb6kGfV7uE/giphy.gif](https://th.bing.com/th/id/OIP.p7FcM-SU-ReR5WFPoHcRNAHaEK?w=332&h=186&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1)" width="100"/>
   <h1>👋 Hello, I'm Surya The King</h1>
 </div>
 
