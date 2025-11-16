@@ -1,5 +1,6 @@
-<p align="center">💀⚡ S U R Y A D E E P ⚡💀</p>
-<p align="center">🛡️ Cybersecurity Student • Ethical Hacker • Pentesting & Threat Analysis 🕶️</p>
+
+🛡️ Hi, I'm Suryadeep — Cybersecurity Student & Ethical Hacking Learner!
+<p align="center"> <img src="https://img.shields.io/badge/Cybersecurity-Student-00ff99?style=for-the-badge&logo=hackaday&logoColor=black"/> <img src="https://img.shields.io/badge/Ethical%20Hacking-Learner-blue?style=for-the-badge&logo=linux"/> <img src="https://img.shields.io/badge/Open%20Source-Contributor-purple?style=for-the-badge&logo=github"/> </p>
 <p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" width="800" /> </p>
 <p align="center">⚡👨‍💻 [ACCESS GRANTED] — WELCOME TO MY DOMAIN 👨‍💻⚡</p>
 > Initializing security protocols...
@@ -7,6 +8,8 @@
 > Status: ONLINE ✓
 > Access Level: CYBER OPERATIVE
 > Threat Intelligence Module: ENABLED
+
+
 
 🧠 Who Am I? — Digital Ghost 👾
 
