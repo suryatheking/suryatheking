@@ -1,81 +1,75 @@
-<p align="center">💻🟩 S U R Y A D E E P 🟩💻</p>
-<p align="center">⚡ Cybersecurity Student | Ethical Hacker | Pentesting Learner ⚡</p>
-<p align="center"> <img src="https://i.imgur.com/KrRb0Fs.gif" width="700" /> </p>
-<p align="center">🟩 INITIATING HACKER PROFILE…</p>
-[BOOT SEQUENCE STARTED...]
-> Loading system variables...
-> Establishing secure shell...
-> User detected: SURYADEEP
-> Clearance: CYBER OPERATIVE LEVEL-3
-> Status: ACTIVE ✓
-> Threat Monitoring: ONLINE
-------------------------------------------
-ACCESS GRANTED ▓▒░ Welcome Operative ░▒▓
+<p align="center">💀⚡ S U R Y A D E E P ⚡💀</p>
+<p align="center">🛡️ Cybersecurity Student • Ethical Hacker • Pentesting & Threat Analysis 🕶️</p>
+<p align="center"> <img src="https://i.imgur.com/LyHic3i.gif" width="800" /> </p>
+<p align="center">⚡👨‍💻 [ACCESS GRANTED] — WELCOME TO MY DOMAIN 👨‍💻⚡</p>
+> Initializing security protocols...
+> Loading user profile: SURYADEEP
+> Status: ONLINE ✓
+> Access Level: CYBER OPERATIVE
+> Threat Intelligence Module: ENABLED
 
-🟩 👨‍💻 Profile Overview
+🧠 Who Am I? — Digital Ghost 👾
 
-🟢 Cybersecurity student mastering Web & Network Pentesting
-🟢 Passion for ethical hacking, malware research, digital forensics
-🟢 Builds Python-based hacking utilities & scanners
-🟢 Training on TryHackMe, HackTheBox, PortSwigger Lab
-🟢 Exploring AI + Security Automation Tools
+✔ Cybersecurity student obsessed with digital defense
+✔ Web Pentesting • Network Exploitation • Malware Analysis
+✔ Builds offensive + defensive Python security tools
+✔ Constantly training on: TryHackMe, HackTheBox, PortSwigger
+✔ Loves terminal, dark mode & hacking aesthetics
+✔ Goal: Become a world-class Penetration Tester
 
-🟩 ⚔️ Offensive Arsenal
-🛠️ Programming
-Python | JavaScript | PHP | Bash | SQL
+<p align="center">💻🔥 MY HACKING ARSENAL 🔥💻</p>
+🖥️ Programming Languages
+Python • JavaScript • Bash • PHP • SQL
 
-🧨 Pentesting Tools
+⚔️ Offensive Security Tools
 Nmap • Burp Suite • Metasploit • Hydra • SQLmap
-Gobuster • Nikto • Aircrack-ng • John the Ripper
+John the Ripper • Gobuster • Nikto • Aircrack-ng
 
-🕵️‍♂️ Recon & OSINT Tools
-Shodan • OSINT Framework • Recon-ng • Subfinder
-
-🛡️ Forensics / Defensive
-Wireshark • Volatility • Autopsy • Log Analysis
+🛡️ Defensive & Analysis Tools
+Wireshark • Autopsy • OSINT Framework • Volatility
 
 🐧 Operating Systems
 Kali Linux • Parrot OS • Ubuntu • Windows
 
-<p align="center">💀 HACKER MODE ACTIVATED 💀</p>
-<p align="center"> <img src="https://i.imgur.com/oZfZz21.gif" width="700"> </p>
-🟩 🔥 Featured Cybersecurity Projects
-🟢 Dark Web Monitoring System
+<p align="center">🎯🔥 FEATURED PROJECTS (TOP SECRET) 🔥🎯</p>
+🕵️‍♂️ 🟩 Dark Web Monitoring System
 
-🔍 Detects leaked emails & credentials
-📡 Real-time breach lookup
+🔍 Tracks leaked credentials in real-time
+🟢 Email → Password → Breach Source Detection
 
-🟢 Web Vulnerability Scanner
+⚡ 🟦 Cyber Recon Scanner
 
-✔ SQLi, XSS, CSRF
-✔ Directory brute-force
+Multi-module scanner for:
+✔ Sensitive files
+✔ Open ports
+✔ Directory brute-forcing
 
-🟢 Port Scanner (Multi-threaded)
+🚀 🟥 Multi-Threaded Port Scanner
 
-⚡ Lightning fast
-🎯 Accurate port detection
+Faster than most beginners tools
+Highly optimized threading
 
-🟢 Password Intelligence Suite
+🔐 🟧 Password Intelligence Suite
 
-✔ Strength analyzer
-✔ Smart generator
+✔ Analyzer
+✔ Generator
+✔ Strength score
 
-🟢 Keylogger (For Education Only)
+👾 🟪 Keylogger (For research only)
 
-Used for research + learning
+Ethical + educational usage
 
-<p align="center">🟩 TECH BADGES</p>
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,bash,linux,php,js,mysql,html,css,git,vscode,kali" /> </p>
-<p align="center">📊 SYSTEM ANALYTICS</p>
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=suryadeep&show_icons=true&theme=merko" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadeep&layout=compact&theme=merko" /> </p> <p align="center"> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=suryadeep&theme=merko" /> </p>
-<p align="center">💬 Hacker Quote</p>
+<p align="center">🧬 HACKER UI • SKILL ICONS 🔥</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,php,linux,bash,git,mysql,react,bootstrap,vscode,html,css,kali" /> </p>
+<p align="center">📊 GITHUB INTEL REPORT</p>
+<p align="center"> <img height="150" src="https://github-readme-stats.vercel.app/api?username=suryadeep&show_icons=true&theme=chartreuse-dark" /> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryadeep&layout=compact&theme=chartreuse-dark" /> </p> <p align="center"> <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=suryadeep&theme=chartreuse-dark" /> </p>
+<p align="center">💀 HACKER MOTTO 💀</p>
 
-“Hack the system before the system hacks you.”
+“If you control the code, you control the system.
+If you control the system, you control the world.”
 
-🟩 📡 Contact Protocols
+<p align="center">📡 CONTACT • TRANSMISSION CHANNELS</p>
 
 📧 Email — your email
 🔗 LinkedIn — your link
 🐦 Twitter — your link
-
-<p align="center">⚡ Want an EVEN DARKER, MORE AGGRESSIVE MATRIX THEME?</p>
